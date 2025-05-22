@@ -28,5 +28,6 @@ A simple Java application that fetches and displays the current weather informat
 - Internet connection to access the OpenWeatherMap API
 - An API key from [OpenWeatherMap](https://openweathermap.org/api) (free to sign up)
 
-![Weather app output]![Screenshot 2025-05-14 124437](https://github.com/user-attachments/assets/a50b53ae-0d2b-4787-9dc9-6966da3c34d7)
+## Sample Output
+![Screenshot 2025-05-14 124437](https://github.com/user-attachments/assets/a50b53ae-0d2b-4787-9dc9-6966da3c34d7)
 
